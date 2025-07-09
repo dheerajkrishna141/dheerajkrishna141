@@ -94,8 +94,6 @@
 
 
 <div align="center">
-<h3 align='center'><strong>Github Stats</strong></h3>
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dheerajkrishna141&starting_year=2019&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
+<img src="https://raw.githubusercontent.com/dheerajkrishna141/dheerajkrishna141/output/snake.svg" alt="Snake animation" />
 </div>

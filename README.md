@@ -21,15 +21,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dheerajkrishna141&label=Profile%20views&color=0e75b6&style=for-the-badge&abbreviated=true" alt="abhishek249494" /> </p>
 <div align="left">
 
-- 🔭 I’m currently pursuing my MS in CS degree at George Mason University and am working on **chordwriter.app**
+- 🔭 I’m currently **AI Reasearch Engineer** at George Mason University and **SDE** at Suviko LLC.
 
-- 🌱 I’m currently learning **RAG, Vector DB, DSA**
+- 🌱 I’m currently learning **System Design, DSA**
 
-- 💬 Ask me about **Java, Spring, JavaScript, React, Next.js**
+- 💬 Ask me about **AI, LLMs, Java, Spring, JavaScript, React, Next.js**
 
 - 📫 reach me @  **dheerajkrishna141@gmail.com**
 
-- 👀 I’m interested in **Web Development, RAG, and DSA**
+- 👀 I’m interested in **Web Development, Mobile Development, RAG, and DSA**
   
 - ⚡ Fun fact **I am a Musician/Guitarist 🎸**
 </div>
